@@ -1,2 +1,1 @@
-# picorv32
-Thesis namo 
+Thesis na PICORV32
